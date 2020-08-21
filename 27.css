@@ -21,7 +21,7 @@ body{
 	text-align: center;
 }
 
-.slider{
+span{
 	
 	background-image: url("tenor.gif"), url("tenor 1.gif"), url("27.jpg");
 	background-position: left, right, center;
