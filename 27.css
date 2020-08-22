@@ -39,13 +39,13 @@ span{
 }
 
 .img{
-	display:inline-block;
 	float:right;
 	border: 5px double cyan;
 	padding:5px;
 }
 
 .img2{
+	display:inline-block;
 	float:right;
 }
 
