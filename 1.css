@@ -17,3 +17,12 @@ h3{
 p{
 	color: rgb(255, 168, 229);
 }
+
+
+#link:link{
+	color:red;
+}
+
+#link:visited{
+	color:green
+}
