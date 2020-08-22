@@ -3,6 +3,8 @@ body{
 	text-align:justify;
 	background: url("1.jpg");
 	background-size: cover;
+	border:5px double rgb(185, 235, 224);
+	padding: 5px
 	
 }
 
