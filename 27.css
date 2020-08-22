@@ -8,7 +8,8 @@ body{
 
 #title{
 	color: rgb(81,240,92);
-	border: 5px rgb(221, 252, 45);
+	padding: 5px;
+	border: 5px rgb(247, 129, 49);
 	text-align: center;
 	font-family: "Times New Roman";
 	
