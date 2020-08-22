@@ -20,6 +20,8 @@ body{
 	text-decoration:underline;
 	background: url("2.jpg");
 	text-align: center;
+	padding: 5px;
+	border: 5px double red;
 }
 
 span{
