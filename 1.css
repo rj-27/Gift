@@ -2,4 +2,18 @@ body{
 	background: url("potrait3.jpg");
 	background-size: cover;
 	text-shadow: white 0px 0px 10px;
+	text-align: justified;
+}
+
+h1{
+	color: rgb(225, 247, 242);
+	text-decoration: underline;
+}
+
+h3{
+	color: rgb(164, 250, 160);
+}
+
+p{
+	color: rgb(255, 168, 229);
 }
