@@ -45,6 +45,10 @@ span{
 	margin:80px 40px;
 }
 
+.img1{
+	text-align: ceneter;
+}
+
 .img2{
 	display:inline-block;
 	float:right;
