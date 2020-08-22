@@ -58,6 +58,7 @@ span{
 div{
 	color:rgb(59,209,204);
 	text-align: center;
+	text-shadow: white 0px 0px 10px;
 }
 
 #link:link{
