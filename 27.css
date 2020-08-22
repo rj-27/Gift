@@ -38,6 +38,10 @@ span{
 	color: rgb(240,141,12);
 }
 
+.img{
+	display:inline-block;
+}
+
 div{
 	color:rgb(59,209,204);
 	text-align: center;
