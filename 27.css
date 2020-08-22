@@ -36,6 +36,7 @@ span{
 
 .para-text{
 	color: rgb(240,141,12);
+	text-shadow: white 0px 0px 10px;
 }
 
 .img{
