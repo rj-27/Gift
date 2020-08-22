@@ -41,9 +41,11 @@ span{
 .img{
 	display:inline-block;
 	float:right;
+	border: 5px double cyan;
+	padding:5px;
 }
 
-.img1{
+.img2{
 	float:right;
 }
 
