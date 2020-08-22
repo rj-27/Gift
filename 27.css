@@ -40,6 +40,11 @@ span{
 
 .img{
 	display:inline-block;
+	float:right;
+}
+
+.img1{
+	float:right;
 }
 
 div{
