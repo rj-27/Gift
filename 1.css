@@ -1,4 +1,5 @@
 body{
 	background: url("potrait3.jpg");
 	background-size: cover;
+	text-shadow: white 0px 0px 10px;
 }
