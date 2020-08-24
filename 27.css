@@ -2,7 +2,8 @@ body{
 	font-size:1 em;
 	text-align:justify;
 	background: url("potrait6.jpg");
-	background-size:cover;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 	
 }
@@ -15,7 +16,7 @@ body{
 	background-repeat: no-repeat;
 	background-position: center;
 	font-family: "Times New Roman";
-	text-shadow: white 0px 5px 5px;
+	text-shadow: white 0px 0px 10px;
 	
 }
 
@@ -27,7 +28,7 @@ body{
 	background-repeat:no-repeat;
 	text-align: center;
 	padding: 5px;
-	text-shadow: white 0px 5px 5px;
+	text-shadow: white 0px 0px 10px;
 }
 
 span{
