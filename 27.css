@@ -1,6 +1,9 @@
 body{
 	font-size:1 em;
 	text-align:justify;
+	background: url("potrait6.jpg");
+	background-size:cover;
+}
 	
 }
 
