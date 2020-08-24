@@ -2,7 +2,7 @@ body{
 	font-size:1 em;
 	text-align:justify;
 	background: url("5.jpg");
-	background-size: fit;
+	background-size: fit, cover;
 	background-repeat: no-repeat;
 }
 
