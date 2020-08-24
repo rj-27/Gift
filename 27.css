@@ -1,7 +1,7 @@
 body{
 	font-size:1 em;
 	text-align:justify;
-	background-image: linear-gradient( to bottom left, rgba(240, 26, 51, 0.7), rgba(30, 87, 232,0.2));
+	background-image: linear-gradient( to bottom left, rgb(30, 87, 232),rgb(109, 186, 222));
 	background-size: cover;
 	background-repeat: no-repeat;
 }
