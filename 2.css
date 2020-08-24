@@ -1,0 +1,19 @@
+body{
+text-align: justified;
+font-style: sans-serif;
+background-color: linear-gradient, (to bottom-right, rgb(24, 98, 237), rgb(38, 232, 16));
+}
+
+
+#title{
+color: rgb(24, 237, 81);
+}
+
+.para-text{
+     color:rgb(24, 209, 237);
+     }
+  
+  .image{
+    padding: 5px;
+    margin: 5px;
+    }
