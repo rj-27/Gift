@@ -1,8 +1,8 @@
 body{
 	background: url("potrait3.jpg");
 	background-size: cover;
-	text-shadow: white 10px 10px 10px;
-	text-align: justified;
+	text-shadow: black 0px 0px 10px;
+	text-align: justify;
 }
 
 h1{
