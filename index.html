@@ -61,10 +61,15 @@
 	 <p class="para-text"> I've left a comment section below just in case you wanna say something but I don't know if it works.</p>
 	 
 	 <form>
+ 
+  Comment:<br /> 
+  <textarea name='comment' id='comment'></textarea><br /> 
+ 
+  <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' /> 
+ 
+  <input type='submit' value='Submit' />   
+</form> 
 
-     Comments:</br>
-     <textarea rows="10" cols"80"></textarea></br>
-     <input type="submit" value="submit">
 
      </form>
 	 
